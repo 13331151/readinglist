@@ -32,4 +32,64 @@
 
 [Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574)
 
+[Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)
+
+[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+
+[Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07828)
+
+[Annotating Object Instances with a Polygon-RNN](https://arxiv.org/abs/1704.05548)
+
+[YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
+
+[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+
+[Sublabel-Accurate Relaxation of Nonconvex Energies](https://arxiv.org/abs/1512.01383)
+
+[Structural-RNN: Deep Learning on Spatio-Temporal Graphs](https://arxiv.org/abs/1511.05298)
+
+[DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time](https://rse-lab.cs.washington.edu/papers/dynamic-fusion-cvpr-2015.pdf)
+
+[Efficient globally optimal consensus maximisation with tree search](http://ieeexplore.ieee.org/document/7298855/)
+
+[Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
+
+[Picture: A probabilistic programming language for scene perception](http://ieeexplore.ieee.org/document/7299068/)
+
+[Category-Specific Object Reconstruction from a single image](https://arxiv.org/abs/1411.6069)
+
+[Deep Neural Decision Forests](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf)
+
+[Holistically-Nested Edge Detection](https://arxiv.org/abs/1504.06375)
+
+[Mask R-CNN](https://research.fb.com/wp-content/uploads/2017/08/maskrcnn.pdf?)
+
+[The Fast Bilateral Solver](https://arxiv.org/abs/1511.03296)
+
+[Focal Flow](https://vision.seas.harvard.edu/focalflow/FocalFlow.pdf)
+
+[The Fast Bilateral Solver](https://arxiv.org/pdf/1511.03296.pdf)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+
+
 
