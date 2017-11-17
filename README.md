@@ -70,19 +70,19 @@
 
 [The Fast Bilateral Solver](https://arxiv.org/pdf/1511.03296.pdf)
 
-[]()
+[Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574)
 
-[]()
+[Submanifold Sparse Convolutional Networks](https://arxiv.org/abs/1706.01307)
 
-[]()
+[Model-Based Planning in Discrete Action Spaces](https://arxiv.org/pdf/1705.07177.pdf)
 
-[]()
+[Tracking the World State with Recurrent Entity Networks](https://arxiv.org/abs/1612.03969)
 
-[]()
+[Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998.pdf)
 
-[]()
+[Prediction Under Uncertainty with error-encoding networks](https://arxiv.org/pdf/1711.04994.pdf)
 
-[]()
+[AOGNets: Deep AND-OR Grammar Networks for Visual Recognition](https://arxiv.org/pdf/1711.05847.pdf)
 
 []()
 
