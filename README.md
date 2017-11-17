@@ -1,7 +1,11 @@
 [中科院计算技术研究所王晋东：迁移学习的发展和现状](http://app.myzaker.com/news/article.php?pk=5a0ace071bc8e0557c000000)
+
 [Understanding objective functions in neural networks](https://towardsdatascience.com/understanding-objective-functions-in-neural-networks-d217cb068138)
+
 [Uncertainty in deep learning](   http://www.cs.ox.ac.uk/people/yarin.gal/website/blog_2248.html)
+
 [KGAN: How to Break The Minimax Game in GAN](https://arxiv.org/pdf/1711.01744.pdf)
+
 [FEW-SHOT LEARNING WITH GRAPH NEURAL NETWORKS](   https://arxiv.org/pdf/1711.04043.pdf)
 [Self-Supervised Intrinsic Image Decomposition](   https://arxiv.org/pdf/1711.03678.pdf)
 [Learning without Forgetting](    https://arxiv.org/pdf/1606.09282.pdf)
