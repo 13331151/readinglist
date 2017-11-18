@@ -84,9 +84,9 @@
 
 [AOGNets: Deep AND-OR Grammar Networks for Visual Recognition](https://arxiv.org/pdf/1711.05847.pdf)
 
-[]()
+[KBGAN: Adversarial Learning for Knowledge Graph Embeddings](https://arxiv.org/abs/1711.04071)
 
-[]()
+[Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)
 
 []()
 
