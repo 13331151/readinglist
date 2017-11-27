@@ -90,7 +90,52 @@
 
 [OcclusionAwareUnsupervisedLearningofOpticalFlow](https://arxiv.org/pdf/1711.05890.pdf)
 
-[]()
+[Spectral Normalization for Generative Adversarial Networks](https://www.researchgate.net/profile/Takeru_Miyato/publication/318572189_Spectral_Normalization_for_Generative_Adversarial_Networks/links/597218e3a6fdcc83487e0616/Spectral-Normalization-for-Generative-Adversarial-Networks.pdf)
+
+[DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/pdf/1711.07064.pdf)
+
+[Wavenet](https://arxiv.org/pdf/1609.03499.pdf)
+
+[deep learning is not probabilistic induction](https://medium.com/intuitionmachine/deep-learning-in-not-probabilistic-induction-3508c4f97ac9)
+
+[Learning Recursive Filters for Low-Level Vision via a Hybrid Neural Network](http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf)
+
+[Beyond a Gaussian Denoiser: Residual Learning of deep cnn for image denoising](https://arxiv.org/pdf/1608.03981.pdf)
+
+[Fast Image Processing with Fully-Convolutional Networks](http://202.116.81.74/cache/13/03/vladlen.info/18455ef75652014dfaf9b1a8fc617e1f/fast-image-processing-with-supplement.pdf?nsukey=iaIEhIOGUnN81fLp1wcuDVR3LCCRwl3q6mfG3l1diA2ArBx0PrhnIv6nnRdzbHRrW8bwQ9bt7tGVDBTgK7Ktmwv8jxNUYDR8UbH0yEHDhqF1mTXv8ML8CflI0PF594QP%2FRyBJ8XxFy44hW1Vjw2jyMhe1ed7eQM2MDQl5FD%2Fx2xyJ%2BReob8ubGWDGrsjYixnDUcjDaMTckRA9phOOtyMjg%3D%3D)
+
+[Graph attention networks](https://arxiv.org/pdf/1710.10903.pdf)
+
+[GRAPH CONVOLUTIONAL NETWORKS](https://tkipf.github.io/graph-convolutional-networks/)
+
+[attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)
+
+[A neural algorithm for a fundamental computing problem](https://www.biorxiv.org/content/biorxiv/early/2017/08/25/180471.full.pdf)
+
+[One Network to Solve Them All — Solving Linear Inverse Problems
+using Deep Projection Models](https://arxiv.org/pdf/1703.09912.pdf)
+
+[learning affinity via spatial propagation networks](https://arxiv.org/pdf/1710.01020.pdf)
+
+[Dissipative Adaptation: The Origins of Life and Deep Learning](https://medium.com/intuitionmachine/dissipative-adaptation-the-clue-to-life-and-deep-learning-77dbd541c945)
+
+[deep learning for physical processes: incorporating prior scientific knowledge](https://arxiv.org/pdf/1711.07970.pdf)
+
+[spectral normalization for generative adversarial networks](https://www.researchgate.net/profile/Takeru_Miyato/publication/318572189_Spectral_Normalization_for_Generative_Adversarial_Networks/links/597218e3a6fdcc83487e0616/Spectral-Normalization-for-Generative-Adversarial-Networks.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
