@@ -123,7 +123,7 @@ using Deep Projection Models](https://arxiv.org/pdf/1703.09912.pdf)
 
 [spectral normalization for generative adversarial networks](https://www.researchgate.net/profile/Takeru_Miyato/publication/318572189_Spectral_Normalization_for_Generative_Adversarial_Networks/links/597218e3a6fdcc83487e0616/Spectral-Normalization-for-Generative-Adversarial-Networks.pdf)
 
-
+[Gradient Regularized GAN](https://github.com/locuslab/gradient_regularized_gan)
 
 
 
